@@ -30,7 +30,6 @@ Several machine learning models were trained and their accuracies compared, incl
 - Decision Trees
 - Random Forest
 - Support Vector Machines (SVM)
-- Neural Networks
 
 ## Results
 
