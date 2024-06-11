@@ -36,10 +36,6 @@ Several machine learning models were trained and their accuracies compared, incl
 The results of these experiments, along with detailed explanations, are documented in the research paper. The models were evaluated based on various performance metrics, and their accuracies were compared to determine the most effective model for predicting cirrhosis disease.
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Kaggle for providing the Cirrhosis Disease Dataset.
